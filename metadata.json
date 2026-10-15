@@ -1,0 +1,6 @@
+{
+  "name": "CollegePortal Enterprise ERP - Academic Staffing & Recruitment Command",
+  "description": "Enterprise university ERP for academic manpower planning, faculty recruitment pipelines, AICTE/UGC teaching load compliance, and executive governance dockets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
